@@ -24,5 +24,7 @@ De los dos modelos se analizan que variables tienen mas peso, para recomendarle 
 
 #**Conclusion:** 
 Modelo arboles de decision, Tuvo una exactitud del 76.39%, parece un valor aceptable, y no se observa un sobreajuste del modelo, ya que este puede ser afectado por la aleatoriedad. Se recomienda a la empresa poner atencion en los clientes que tienen el servicio de fibra optica, pues estos son propensos a dejar la compania, tambien los clientes que son nuevos, son los que mas tienden a dejar, entonces se recomienda dar un seguimiento mas de cerca desde los primeros meses a los clientes, que puede conllevar a la tercera variable en importancia, los cargos mensuales, hacer negociaciones con los clientes e identificar por que dejan el servicio tan rapido.
-Del modelo knn, se puede observar que las variables mas importantes y que la compania debe tener especial cuidado, es en los clientes que tienen pareja, por alguna razon estos son mas propensos a dejar el servicio, tambien el tipo de pago esta influyendo en el modelo.
+
+
+Del modelo knn se puede decir que tuvo una exactitud de 76.88%, se puede observar que las variables mas importantes y que la compania debe tener especial cuidado, es en los clientes que tienen pareja, por alguna razon estos son mas propensos a dejar el servicio, tambien el tipo de pago esta influyendo en el modelo.
 En este informe, mas alla de elegir un modelo champion, tomamos los aportes que ambos modelos nos da para recomendar a la empresa donde atacar y a que tipo de cliente ponerle atencion, pues los rendimientos de los modelos son relativamente similares, pero ambos aportan informacion complementaria.
